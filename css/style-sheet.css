@@ -1,0 +1,237 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body { border:0; margin:0;}
+.clear {clear:both;}
+#wrapper { width:100%; height:auto;}
+h1, h2, h3, h4, h5 { line-height:30px;}
+.img-res { max-width:100%;}
+.container { width:90%; overflow:hidden; margin:0 auto;}
+.col-six-four { width:60%; float:left;}
+.col-four-six { width:40%; float:left;}
+.col-three { width:33%; float:left;}
+.col-seven-three { width:75%; float:left;}
+.col-three-senven { width:25%; float:left;}
+.tota-area {
+	width:100%;
+	margin:0;}
+.col-fifthy {
+	width:50%;
+	float:left;}
+.produ-fif-left {
+	width:50%;
+	float:left;}
+.produ-fif-right {
+	width:50%;
+	float:right;}
+.co-box-three {
+	width:33%;
+	float:left;}
+
+.top-bg {
+	background-color:#e14500;
+	padding:8px;}
+.top-bar {
+	text-align:center;}
+p {
+	font-family:Noto+Sans;
+	}
+.top-bar p{
+	color:#fff;} 
+.cont-ema-pho {
+	padding:40px 0px;
+	text-align:right;
+	color:#e14500;}
+.cont-ema-pho {
+	font-size:18px;
+	margin:5px 30px 5px 0px;}
+.cont-ema-pho p i {
+	color:#703243;
+	font-size:18px;
+	margin:5px 0px;}
+.cont-ema-pho p a {
+	text-decoration:none;
+	color:#e14500;}
+.cont-ema-pho p a:hover {
+	color:#0090ff;}
+	
+.inc-liv-img {
+	margin:45px 5px;}
+.inc-liv-txt {
+	margin:45px 0px 45px 30px;}
+.inc-liv-txt h1 {
+	color:#703243;
+	font-family:Lato;
+	line-height:42px;}
+.inc-liv-txt p {
+	color:#373c41;
+	text-align:justify;
+	margin:10px 0px;
+	font-size:17px;
+	line-height:25px;}	
+.at-com-bg {
+	background-color:#d5c2c7;
+	padding:45px 0px;}
+.at-com-img	{
+	margin:45px 0px 45px 90px;}
+.ser-pro {
+	padding:45px 0px;
+	
+	}	
+.ser-pro h1 {
+	color:#703243;
+	text-align:center;
+	font-size:34px;
+	}
+.se-po-bg {
+	margin:0px 2% 45px 2%;
+	background-color:#703243;
+	padding:20px 25px;
+	border-radius:5px;}
+.se-pr-txt {
+	color:#fff;
+	text-align:center;
+	}
+.se-pr-txt i {
+	font-size:65px;
+	margin:10px;
+	}
+.se-pr-txt h1 {
+	font-size:40px;
+	margin:20px 0px;
+	}	
+.se-pr-txt p {
+	font-size:17px;
+	margin:10px 0px;
+	line-height:25px;
+	}
+.wh-we-bg {
+	background-color:#e3bcc7;
+	padding:45px 0px;}
+.wh-we-tx h1 {
+	font-size:30px;
+	text-align:center;
+	color:#703243;
+	margin:0px 0px 20px 0px;
+	}
+.wh-we-tx p {
+	color:#000;
+	text-align:left;
+	line-height:22px;
+	}
+.ar-we-tre {
+	margin:30px 2% 45px 2%;
+	}
+.ar-we-tre  img {
+	border:1px solid #ff4e00;}
+.ar-we-tre h2 {
+	color:#b43700;
+	margin:10px 0px;
+	font-size:25px;
+	}
+.ar-we-tre p {
+	color:#000;
+	font-size:17px;
+	text-align:left;
+	line-height:22px;}
+.gal-hd {
+	margin:40px 0px;}
+.gal-hd h1 {
+	font-size:30px;
+	text-align:center;
+	color:#703243;
+	margin:0px 0px 20px 0px;}
+.pho-gal-inn {
+	width:95%;
+	margin:10px auto;}
+.pho-gal-inn img {
+	border:1px solid #ff4e00;
+	border-radius:3px;
+	}
+.pho-gal-inn img:hover {
+	border:1px solid #703243;
+	}
+.foot-bg {
+	background-color:#eaff95;
+	padding:40px 0px;
+	border-top:5px solid #ff4e00;
+	}
+.fot-logo h2 {
+	color:#703243;
+	font-size:22px;
+	margin:6px 0px;
+	}
+.fot-logo p {
+	color:#000;
+	font-size:17px;
+	text-align:left;
+	line-height:22px;
+	}
+.fo-arow {
+	background-color:#e14500;
+	width:100px;
+	height:3px;
+	margin:10px 0px;}
+.fot-lo-on {
+	margin:25px 0px 0px 60px;}
+.fot-lo-on h2 {
+	color:#703243;
+	font-size:22px;
+	}
+.fot-lo-on ul {
+	list-style-type:none;
+	}
+.fot-lo-on ul li {
+	margin:10px 0px;}
+.fot-lo-on ul li a {
+	text-decoration:none;
+	color:#000;
+	font-size:17px;}
+.fot-lo-on ul li a:hover {
+	color:#ff4e00;}
+.fot-lo-on p {
+	font-size:17px;
+	color:#000;
+	line-height:27px;
+	}
+.fo-end-bg {
+	background-color:#e14500;
+	padding:12px 0px;}
+.fo-end-txt {
+	text-align:center;
+	color:#fff;}
+.in-pa-bg {
+	background-image:url(../image/inner-banner.jpg);
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+	width:100%;
+	height:auto;}
+.in-ban-con {
+	text-align:center;
+	padding:160px 0px 120px 0px;
+	}
+.in-ban-con h1 {
+	color:#fff;
+	font-size:40px;
+	}
+
+.donate{
+	/* border:1px solid blue; */
+	padding: 5px 10px 5px 10px;
+	background-color: #fdfcfc;
+	border-radius: 20px;
+	box-shadow: 2px 2px 2px 2px rgb(203, 203, 203);
+	
+}	
+
+/*Mukta --menu 
+
+
+Public Sans ----- sub header
+
+Lato --- header 
+
+Noto ---paragraph*/
